@@ -1,5 +1,12 @@
 body {
     
     height: auto;
+    background-color: #FFFFEE;
+    
+}
+
+.avatar {
+    
+    border-radius = 50%;
     
 }
