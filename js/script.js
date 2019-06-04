@@ -3,10 +3,10 @@ $("#experiencia").click(mostrarExperiencia);
 
 function mostrarSobreMim(){
     $(".inactive").hide()
-    $(".sobre-mim").show(600);
+    $(".sobre-mim").show(200);
 }
 
 function mostrarExperiencia(){
     $(".inactive").hide();
-    $(".experiencia").show(600);
+    $(".experiencia").show(200);
 }
