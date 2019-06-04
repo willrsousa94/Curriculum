@@ -2,11 +2,9 @@ body {
     
     height: auto;
     background-color: #FFFFFF;
-    
+    overflow-y: scroll;
 }
 
-.avatar {
-    
-    border-radius = 50%;
-    
+.inactive {
+    display: none;
 }
