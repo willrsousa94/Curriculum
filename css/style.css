@@ -1,10 +1,19 @@
 body {
-    
-    height: auto;
-    background-color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
     overflow-y: scroll;
 }
 
 .inactive {
     display: none;
+}
+
+.main-body {
+    background-color: #FFFFFF;
+    min-height: 60vh;
+}
+
+.img-perfil{
+    height: auto;
+    width: 200px;
 }
